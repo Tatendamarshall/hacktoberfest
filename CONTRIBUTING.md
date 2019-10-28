@@ -1,9 +1,5 @@
-## How To Contributin to This Project?
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
-
-```markdown
-#### Name: [YOUR NAME](GitHub link)
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
+ Name: [Tatendamarshall](https://github.com/Tatendamarshall)
+- Place: Harare, Hahare, Zimbabwe
+- Bio: Full stack web developer with 2 years experience.
+- GitHub: [Tatendamarshall](https://github.com/Tatendamarshall)
 ```
